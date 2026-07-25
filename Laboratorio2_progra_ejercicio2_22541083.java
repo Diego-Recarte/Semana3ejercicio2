@@ -36,6 +36,10 @@ public class Laboratorio2_progra_ejercicio2_22541083 {
             
            System.out.println ("Turno "+ (i+1) + ": Bienvenido Clinica ABC");
            System.out.println("commit");
+           
+           
+           
+           System.out.println("hola mundo");
         }
     }
     
