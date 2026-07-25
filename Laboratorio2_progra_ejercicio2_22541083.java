@@ -15,7 +15,7 @@ public class Laboratorio2_progra_ejercicio2_22541083 {
         int numero, suma, igualdad;
         igualdad=0;
         suma=1;
-        System.out.println ("Ingrese 1. si desea todos los tickets, 2. si desea pares, 3. si desea impares");
+        System.out.println (" Ingrese 1. si desea todos los tickets, 2. si desea pares, 3. si desea impares ");
         numero= n.nextInt();
         switch (numero){
             case (1): 
@@ -35,7 +35,7 @@ public class Laboratorio2_progra_ejercicio2_22541083 {
         for (int i=igualdad; i<10; i+=suma){
             
            System.out.println ("Turno "+ (i+1) + ": Bienvenido Clinica ABC");
-           System.out.println("commit");
+           System.out.println("commit 33 dos en main");
         }
     }
     
