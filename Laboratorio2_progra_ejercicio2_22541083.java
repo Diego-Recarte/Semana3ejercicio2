@@ -35,6 +35,7 @@ public class Laboratorio2_progra_ejercicio2_22541083 {
         for (int i=igualdad; i<10; i+=suma){
             
            System.out.println ("Turno "+ (i+1) + ": Bienvenido Clinica ABC");
+           System.out.println("commit");
         }
     }
     
